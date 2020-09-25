@@ -49,4 +49,4 @@ Licensed under the [Simplified BSD][bsd] license.
 [setup-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/setup.png
 [license-image]: http://img.shields.io/badge/license-simplified--bsd-blue.svg?style=flat
 [release-image]: https://img.shields.io/badge/release-2.15.0-blue.svg?style=flat
-[releases]: https://www.jsdelivr.com/gh/snowplow/sp-js-assets/
+[releases]: https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets?version=2.15.0
