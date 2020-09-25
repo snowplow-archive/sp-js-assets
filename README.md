@@ -23,7 +23,7 @@ client-side tier of your websites and web apps.
 Available on the [jsdelivr CDN](https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets)
 
 The latest version is available here:
-`https://www.jsdelivr.com/gh/snowplow/sp-js-assets/2.15.0/sp.js`
+`https://www.jsdelivr.com/gh/snowplow/sp-js-assets@2.15.0/sp.js`
 
 | Technical Docs                      | Setup Guide                  |
 |-------------------------------------|------------------------------|
@@ -32,8 +32,8 @@ The latest version is available here:
 
 ## Copyright and license
 
-The Snowplow JavaScript Tracker is based on Anthon Pang's [`piwik.js`][piwikjs], the JavaScript
-tracker for the open-source [Piwik][piwik] project, and is distributed under the same license
+The Snowplow JavaScript Tracker is based on Anthon Pang's piwik.js, the JavaScript
+tracker for the open-source Piwik project, and is distributed under the same license
 ([Simplified BSD][bsd]).
 
 Significant portions of the Snowplow JavaScript Tracker copyright 2010 Anthon Pang. Remainder
