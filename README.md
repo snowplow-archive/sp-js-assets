@@ -23,7 +23,7 @@ client-side tier of your websites and web apps.
 Available on the [jsdelivr CDN](https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets)
 
 The latest version is available here:
-`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.15.0/sp.js`
+`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.16.1/sp.js`
 
 | Technical Docs                      | Setup Guide                  |
 |-------------------------------------|------------------------------|
