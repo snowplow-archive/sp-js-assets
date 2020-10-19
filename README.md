@@ -9,7 +9,7 @@
 Contains all of the Snowplow JavaScript Tracker assets.
 
 To use the Snowplow JavaScript Tracker, we advise you host the sp.js asset on your own CDN or serve it
-from within your own web app, however these assets are available via the third party jsdelivr CDN.
+from within your own web app, however these assets are available via the third party jsdelivr and cdnjs CDNs.
 
 ## Snowplow JavaScript Tracker
 
@@ -20,10 +20,12 @@ client-side tier of your websites and web apps.
 
 ## Find out more
 
-Available on the [jsdelivr CDN](https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets)
+Available on the [jsdelivr](https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets) and [cdnjs](https://cdnjs.com/libraries/snowplow)
 
-The latest version is available here:
-`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.16.1/sp.js`
+The latest version is available here:  
+`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.16.2/sp.js`  
+and  
+`https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.16.1/sp.js`
 
 | Technical Docs                      | Setup Guide                  |
 |-------------------------------------|------------------------------|
