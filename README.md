@@ -25,7 +25,7 @@ Available on the [jsdelivr](https://www.jsdelivr.com/package/gh/snowplow/sp-js-a
 The latest version is available here:  
 `https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.16.2/sp.js`  
 and  
-`https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.16.1/sp.js`
+`https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.16.2/sp.js`
 
 | Technical Docs                      | Setup Guide                  |
 |-------------------------------------|------------------------------|
