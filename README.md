@@ -1,6 +1,7 @@
 # Snowplow JavaScript Tracker Assets
 
 [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/gh/snowplow/sp-js-assets/badge?style=rounded)](https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets)
+[![cdnjs](https://img.shields.io/cdnjs/v/snowplow)](https://cdnjs.com/libraries/snowplow)
 [![Release][release-image]][releases]
 [![License][license-image]][bsd]
 
@@ -23,9 +24,9 @@ client-side tier of your websites and web apps.
 Available on the [jsdelivr](https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets) and [cdnjs](https://cdnjs.com/libraries/snowplow)
 
 The latest version is available here:  
-`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.16.2/sp.js`  
+`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.16.3/sp.js`  
 and  
-`https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.16.2/sp.js`
+`https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.16.3/sp.js`
 
 | Technical Docs                      | Setup Guide                  |
 |-------------------------------------|------------------------------|
@@ -49,6 +50,6 @@ Licensed under the [Simplified BSD][bsd] license.
 [tech-docs]: https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/javascript-tracker/
 [techdocs-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/techdocs.png
 [setup-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/setup.png
-[license-image]: http://img.shields.io/badge/license-simplified--bsd-blue.svg?style=flat
-[release-image]: https://img.shields.io/badge/release-2.16.2-blue.svg?style=flat
+[license-image]: https://img.shields.io/badge/license-simplified--bsd-blue.svg?style=flat
+[release-image]: https://img.shields.io/github/v/release/snowplow/sp-js-assets?sort=semver
 [releases]: https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets?version=2.16.1
