@@ -24,9 +24,9 @@ client-side tier of your websites and web apps.
 Available on the [jsdelivr](https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets) and [cdnjs](https://cdnjs.com/libraries/snowplow)
 
 The latest version is available here:  
-`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.17.0/sp.js`  
+`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.17.1/sp.js`  
 and  
-`https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.17.0/sp.js`
+`https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.17.1/sp.js`
 
 | Technical Docs                      | Setup Guide                  |
 |-------------------------------------|------------------------------|
@@ -40,7 +40,7 @@ tracker for the open-source Piwik project, and is distributed under the same lic
 ([Simplified BSD][bsd]).
 
 Significant portions of the Snowplow JavaScript Tracker copyright 2010 Anthon Pang. Remainder
-copyright 2012-2020 Snowplow Analytics Ltd.
+copyright 2012-2021 Snowplow Analytics Ltd.
 
 Licensed under the [Simplified BSD][bsd] license.
 
