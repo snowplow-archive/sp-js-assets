@@ -24,9 +24,9 @@ client-side tier of your websites and web apps.
 Available on the [jsdelivr](https://www.jsdelivr.com/package/gh/snowplow/sp-js-assets) and [cdnjs](https://cdnjs.com/libraries/snowplow)
 
 The latest version is available here:  
-`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.18.0/sp.js`  
+`https://cdn.jsdelivr.net/gh/snowplow/sp-js-assets@2.18.1/sp.js`  
 and  
-`https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.18.0/sp.js`
+`https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.18.1/sp.js`
 
 | Technical Docs                      | Setup Guide                  |
 |-------------------------------------|------------------------------|
